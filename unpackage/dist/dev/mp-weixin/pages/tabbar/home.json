@@ -1,0 +1,10 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "bbs-countdown": "/components/bbs-countdown/bbs-countdown",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "pages-header": "/components/pages-header/index"
+  }
+}

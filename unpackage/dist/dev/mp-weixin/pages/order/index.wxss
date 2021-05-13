@@ -1,0 +1,37 @@
+.nav-wrap.data-v-0ca91b30 {
+  position: fixed;
+}
+.item_con.data-v-0ca91b30 {
+  padding: 20rpx;
+}
+.item.data-v-0ca91b30 {
+  padding: 30rpx 0;
+}
+.item-btn.data-v-0ca91b30 {
+  width: 110rpx;
+  height: 46rpx;
+  line-height: 46rpx;
+  text-align: center;
+  border: 1px solid #72bffa;
+  border-radius: 23rpx;
+  font-size: 26rpx;
+  color: #72bffa;
+}
+.item-title.data-v-0ca91b30 {
+  font-size: 30rpx;
+  color: #000000;
+}
+.item-num.data-v-0ca91b30 {
+  font-size: 24rpx;
+  color: #666666;
+  padding: 10rpx 0;
+}
+.item-time.data-v-0ca91b30 {
+  font-size: 22rpx;
+  color: #999999;
+}
+.item-state.data-v-0ca91b30 {
+  font-size: 26rpx;
+  color: #FE7578;
+}
+

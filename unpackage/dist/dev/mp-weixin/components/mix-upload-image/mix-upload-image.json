@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "mix-modal": "/components/mix-modal/mix-modal"
+  },
+  "component": true
+}

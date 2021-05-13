@@ -1,0 +1,70 @@
+
+.pageTopCon.data-v-1edf4007 {
+	width: 706rpx;
+	height: 173rpx;
+	background: #ffffff;
+	box-shadow: 0px 5rpx 16rpx 0px rgba(217, 217, 217, 0.25);
+	border-radius: 15rpx;
+	margin: -50rpx auto 30rpx;
+	padding: 0 20rpx;
+}
+.pageTitle.data-v-1edf4007 {
+	font-size: 32rpx;
+	font-weight: bold;
+	color: #333333;
+}
+.icon-you.data-v-1edf4007 {
+	font-size: 20rpx;
+	margin-left: 20rpx;
+}
+.pageBtn.data-v-1edf4007 {
+	width: 200rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	background: #fe7578;
+	border-radius: 30rpx;
+	font-size: 24rpx;
+	color: #fff4f4;
+}
+.pageServe.data-v-1edf4007 {
+	height: 66rpx;
+	line-height: 66rpx;
+	background: #6fbefa;
+	padding: 0 20rpx;
+	font-size: 26rpx;
+	color: #ffffff;
+}
+
+/* 维修端 */
+.list-top.data-v-1edf4007 {
+	font-weight: bold;
+	color: #000000;
+	line-height: 36rpx;
+}
+.list-con.data-v-1edf4007 {
+	width: 710rpx;
+	margin: 0 auto 30rpx;
+	background: #ffffff;
+	box-shadow: 0px 16rpx 49rpx 0px rgba(167, 167, 167, 0.13);
+	border-radius: 15rpx;
+	padding: 30rpx;
+}
+.item-con.data-v-1edf4007 {
+	padding: 30rpx 0;
+}
+.item-top.data-v-1edf4007 {
+	font-size: 26rpx;
+	color: #333333;
+	line-height: 36rpx;
+}
+.item-time.data-v-1edf4007 {
+	font-size: 24rpx;
+	color: #fe7578;
+	line-height: 36rpx;
+}
+.item-position.data-v-1edf4007 {
+	font-size: 22rpx;
+	color: #999999;
+	line-height: 36rpx;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "平台客服",
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "mix-list-cell": "/components/mix-list-cell/mix-list-cell"
+  }
+}

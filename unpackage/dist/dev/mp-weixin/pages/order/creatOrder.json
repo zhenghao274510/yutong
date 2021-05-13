@@ -1,0 +1,13 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "售后维修单",
+  "navigationBarBackgroundColor": "#91D0FF",
+  "usingComponents": {
+    "evan-form": "/components/evan-form/evan-form",
+    "evan-form-item": "/components/evan-form-item/evan-form-item",
+    "w-picker": "/components/w-picker/w-picker",
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "pages-header": "/components/pages-header/index",
+    "evan-from": "/components/evan-form/evan-form"
+  }
+}

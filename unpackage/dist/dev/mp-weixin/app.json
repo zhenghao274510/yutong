@@ -1,0 +1,70 @@
+{
+  "pages": [
+    "pages/tabbar/home",
+    "pages/tabbar/message",
+    "pages/tabbar/user",
+    "pages/address/addaddress",
+    "pages/address/city-list",
+    "pages/address/change",
+    "pages/address/index",
+    "pages/address/position",
+    "pages/user/userInfo",
+    "pages/user/finker",
+    "pages/public/aboutwe",
+    "pages/public/author",
+    "pages/public/servce",
+    "pages/public/selym",
+    "pages/public/noticedetails",
+    "pages/order/index",
+    "pages/order/details",
+    "pages/order/evaGoodsItem",
+    "pages/order/creatOrder",
+    "pages/order/maintenance",
+    "pages/order/maintenanceBack",
+    "pages/order/maintenanceEnd",
+    "pages/order/maintenanceEndBack"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "之铂售后服务",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#000000",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/home",
+        "iconPath": "static/tabs/shouye(moren)@2x.png",
+        "selectedIconPath": "static/tabs/shouye@2x.png",
+        "text": "服务单"
+      },
+      {
+        "pagePath": "pages/tabbar/message",
+        "iconPath": "static/tabs/xiaoxi(moren)@2x.png",
+        "selectedIconPath": "static/tabs/xiaoxi@2x.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/tabbar/user",
+        "iconPath": "static/tabs/wode(moren)@2x.png",
+        "selectedIconPath": "static/tabs/wode@2x.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于为您找到服务门店"
+    }
+  },
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "s-pull-scroll": "/components/s-pull-scroll/index"
+  },
+  "sitemapLocation": "sitemap97.json"
+}

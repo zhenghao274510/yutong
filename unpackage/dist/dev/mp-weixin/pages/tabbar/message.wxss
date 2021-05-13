@@ -1,0 +1,74 @@
+
+.tradTop.data-v-daa705e2 {
+	font-size: 28rpx;
+	color: #000000;
+	height: 80rpx;
+	line-height: 80rpx;
+	background: #f6f6f6;
+	padding: 0 20rpx;
+}
+.rowItem.data-v-daa705e2 {
+	padding: 30rpx 0;
+	position: relative;
+}
+.min-con.data-v-daa705e2 {
+	padding: 20rpx;
+}
+.right.data-v-daa705e2 {
+	text-align: right;
+	color: #d51a2a;
+}
+.price.data-v-daa705e2 {
+	font-size: 24rpx;
+	color: #999999;
+	line-height: 36rpx;
+}
+.pageTopCon.data-v-daa705e2 {
+	width: 710rpx;
+	height: 173rpx;
+	background: #ffffff;
+	box-shadow: 0px 5rpx 16rpx 0px rgba(217, 217, 217, 0.25);
+	border-radius: 15rpx;
+	padding: 0 20rpx;
+	position: fixed;
+	left: 20rpx;
+	top: calc(140rpx + 25px);
+}
+.pageTitle.data-v-daa705e2 {
+	font-size: 32rpx;
+	font-weight: bold;
+	color: #333333;
+}
+.order_list_icon.data-v-daa705e2 {
+	width: 80rpx;
+	height: 80rpx;
+}
+.item-title.data-v-daa705e2 {
+	color: #000000;
+	line-height: 36rpx;
+}
+.number.data-v-daa705e2 {
+	position: absolute;
+	right: 0;
+	top: 6rpx;
+	min-width: 34rpx;
+	height: 34rpx;
+	line-height: 30rpx;
+	text-align: center;
+	padding: 0 8rpx;
+	font-size: 18rpx;
+	color: #fff;
+	border: 2rpx solid #fff;
+	background-color: red;
+	border-radius: 100rpx;
+}
+.isRead.data-v-daa705e2 {
+	position: absolute;
+	right: 20rpx;
+	top: 20rpx;
+	width: 20rpx;
+	height: 20rpx;
+	background-color: red;
+	border-radius: 50%;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "mix-upload-image": "/components/mix-upload-image/mix-upload-image"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "评价",
+  "usingComponents": {
+    "mix-loading": "/components/mix-loading/mix-loading",
+    "repair-header": "/pages/order/components/repair-header"
+  }
+}

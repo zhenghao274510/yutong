@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "意见反馈",
+  "usingComponents": {
+    "mix-modal": "/components/mix-modal/mix-modal"
+  }
+}

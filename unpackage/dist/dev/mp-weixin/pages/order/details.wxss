@@ -1,0 +1,51 @@
+.btnCon.data-v-9b5a0750 {
+  position: fixed;
+  bottom: 60rpx;
+  width: 100%;
+}
+.btnCon .btn.data-v-9b5a0750 {
+  width: 706rpx;
+  height: 88rpx;
+  background: #fe7578;
+  font-size: 30rpx;
+  color: #ffffff;
+  line-height: 80rpx;
+  text-align: center;
+  border-radius: 40rpx;
+}
+.orderInfoCon.data-v-9b5a0750 {
+  width: 709rpx;
+  background: #f3f5f9;
+  border-radius: 20rpx;
+  padding: 30rpx 20rpx;
+  margin: 40rpx auto;
+}
+.orderPriceCon.data-v-9b5a0750 {
+  width: 709rpx;
+  margin: 0 auto;
+  color: #596d8d;
+}
+.orderPrice.data-v-9b5a0750 {
+  color: #fe7578;
+}
+.orderItem.data-v-9b5a0750 {
+  padding: 20rpx 0;
+}
+.orderItemTitle.data-v-9b5a0750 {
+  font-size: 26rpx;
+  color: #333333;
+}
+.orderItemInfo.data-v-9b5a0750 {
+  font-size: 24rpx;
+  color: #999999;
+}
+.textarea.data-v-9b5a0750 {
+  height: 180rpx;
+  width: 100%;
+  padding: 20rpx;
+  background: #ffffff;
+  margin-top: 30rpx;
+  font-size: 24rpx;
+  color: #999999;
+}
+

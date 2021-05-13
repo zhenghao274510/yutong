@@ -1,0 +1,26 @@
+
+.itemCon.data-v-6bdb5298 {
+	padding: 20rpx;
+}
+.itemTitle.data-v-6bdb5298 {
+	color: #000000;
+}
+.userIcon.data-v-6bdb5298 {
+	width: 90rpx;
+	height: 90rpx;
+}
+.input.data-v-6bdb5298 {
+	height: 60rpx;
+	line-height: 60rpx;
+	text-align: right;
+}
+.icon-you.data-v-6bdb5298 {
+	font-size: 24rpx;
+	margin-left: 20rpx;
+}
+.tapBot.data-v-6bdb5298 {
+	position: fixed;
+	bottom: 60rpx;
+	width: 100%;
+}
+

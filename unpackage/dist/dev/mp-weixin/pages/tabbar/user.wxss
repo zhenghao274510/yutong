@@ -1,0 +1,122 @@
+.userCon.data-v-2bf7e0f3 {
+  position: relative;
+}
+.top_bg.data-v-2bf7e0f3 {
+  background: -webkit-linear-gradient(309deg, #c3edab 0%, #006fff 99%);
+  background: linear-gradient(141deg, #c3edab 0%, #006fff 99%);
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  opacity: 0.05;
+  z-index: -1;
+}
+.user-top.data-v-2bf7e0f3 {
+  width: 750rpx;
+  height: 339rpx;
+  position: relative;
+  padding-left: 20rpx;
+  padding-top: calc(25px + 30px);
+}
+.user-icon.data-v-2bf7e0f3 {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 50%;
+}
+.active-btn.data-v-2bf7e0f3 {
+  font-size: 36rpx;
+  font-weight: bold;
+  color: #000000;
+}
+.active-title.data-v-2bf7e0f3 {
+  font-size: 26rpx;
+  color: #666666;
+  margin-top: 20rpx;
+}
+.order-list.data-v-2bf7e0f3 {
+  width: 700rpx;
+  margin: 0 auto;
+  background: #f3f5f9;
+  border-radius: 20rpx;
+}
+.o-header-title.data-v-2bf7e0f3 {
+  padding: 40rpx 20rpx;
+  font-size: 36rpx;
+  font-weight: bold;
+  color: #333333;
+}
+.order-wrap.data-v-2bf7e0f3 {
+  padding: 30rpx 0;
+}
+.order-wrap .o-header.data-v-2bf7e0f3 {
+  width: 174rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  text-align: center;
+  background: #6fbefa;
+  border-radius: 0px 30px 30px 0px;
+}
+.order-wrap .o-header .tit.data-v-2bf7e0f3 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 26rpx;
+  color: #ffffff;
+}
+.order-wrap .o-header .more.data-v-2bf7e0f3 {
+  font-size: 24rpx;
+  color: #999;
+}
+.order-wrap .o-header .icon-you.data-v-2bf7e0f3 {
+  margin-left: 4rpx;
+  font-size: 20rpx;
+  color: #999;
+}
+.order-wrap .o-list.data-v-2bf7e0f3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.order-wrap .item.data-v-2bf7e0f3 {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  width: 130rpx;
+  height: 130rpx;
+  border-radius: 8rpx;
+  font-size: 24rpx;
+  color: #606266;
+  position: relative;
+}
+.order-wrap .item .order_list_icon.data-v-2bf7e0f3 {
+  width: 46rpx;
+  height: 46rpx;
+  margin-bottom: 20rpx;
+  color: #fa436a;
+}
+.order-wrap .item text.data-v-2bf7e0f3 {
+  font-size: 24rpx;
+}
+.order-wrap .item .icon-shouhoutuikuan.data-v-2bf7e0f3 {
+  font-size: 44rpx;
+}
+.order-wrap .number.data-v-2bf7e0f3 {
+  position: absolute;
+  right: 22rpx;
+  top: 6rpx;
+  min-width: 34rpx;
+  height: 34rpx;
+  line-height: 30rpx;
+  text-align: center;
+  padding: 0 8rpx;
+  font-size: 18rpx;
+  color: #fff;
+  border: 2rpx solid #fff;
+  background-color: red;
+  border-radius: 100rpx;
+}
+

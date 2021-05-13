@@ -1,0 +1,38 @@
+.btnCon.data-v-eb67c01a {
+  position: fixed;
+  bottom: 60rpx;
+  width: 100%;
+}
+.btnCon .btn.data-v-eb67c01a {
+  width: 706rpx;
+  height: 88rpx;
+  background: #fe7578;
+  font-size: 30rpx;
+  color: #ffffff;
+  line-height: 80rpx;
+  text-align: center;
+  border-radius: 40rpx;
+}
+.bindTitle.data-v-eb67c01a {
+  font-size: 24rpx;
+  color: #999999;
+  margin-left: 20rpx;
+}
+.evaConTitle.data-v-eb67c01a {
+  padding: 30rpx 0;
+}
+.labelIcon.data-v-eb67c01a {
+  position: relative;
+}
+.labelIcon image.data-v-eb67c01a {
+  width: 32rpx;
+  height: 32rpx;
+}
+.list-con.data-v-eb67c01a {
+  padding: 0 20rpx;
+}
+.itemCon.data-v-eb67c01a {
+  width: 20%;
+  padding: 30rpx 0;
+}
+

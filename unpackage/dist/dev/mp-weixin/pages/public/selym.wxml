@@ -1,0 +1,1 @@
+<view><view class="pageContent"><jyf-parser vue-id="2b6cf336-1" html="{{content}}" bind:__l="__l"></jyf-parser></view><block wx:if="{{isLoading}}"><mix-loading vue-id="2b6cf336-2" bind:__l="__l"></mix-loading></block></view>

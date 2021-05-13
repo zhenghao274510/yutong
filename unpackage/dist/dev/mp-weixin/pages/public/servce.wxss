@@ -1,0 +1,47 @@
+
+page {
+	background: #ffffff;
+}
+
+
+.orderInfoCon.data-v-a6997a96 {
+	width: 709rpx;
+	background: #f3f5f9;
+	border-radius: 20rpx;
+	padding: 30rpx;
+	margin: 40rpx auto;
+}
+.image.data-v-a6997a96 {
+	width: 36rpx;
+	height: 36rpx;
+	margin-right: 20rpx;
+}
+.itemCon.data-v-a6997a96 {
+	padding: 20rpx 0;
+}
+.itemTitle.data-v-a6997a96 {
+	color: #596d8d;
+	font-size: 26rpx;
+}
+.itemNumber.data-v-a6997a96 {
+	color: #596d8d;
+	font-size: 24rpx;
+}
+.itemNumber.data-v-a6997a96::after {
+	content: "I";
+	font-size: 24rpx;
+	color: #596d8d;
+	width: 30rpx;
+	display: inline-block;
+	text-align: center;
+}
+.itemCopy.data-v-a6997a96 {
+	color: #000000;
+	font-size: 24rpx;
+}
+.logo.data-v-a6997a96 {
+	width: 165rpx;
+	height: 165rpx;
+	border-radius: 50%;
+}
+
